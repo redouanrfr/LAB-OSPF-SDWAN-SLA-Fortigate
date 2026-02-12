@@ -49,7 +49,8 @@ l'ensemble de la topologie réseau sous ~40 secondes (ip ospf dead-interval), ga
 ### Topologie globale
 
 ```
-![Topologie](./Docs/Schema.png?raw=true)
+
+<img width="1225" height="767" alt="Schema" src="https://github.com/user-attachments/assets/30b9af4b-12ba-4c33-97c4-92d1128e98c0" />
 
 ```
 
