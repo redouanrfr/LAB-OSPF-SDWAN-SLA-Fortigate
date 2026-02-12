@@ -50,7 +50,7 @@ l'ensemble de la topologie réseau sous ~40 secondes (ip ospf dead-interval), ga
 
 ```
 
-![Schéma Architecture](Docs/Schema.jpg)
+![Schéma Architecture Réseau](Docs/Schema.jpg)
 
 ```
 
