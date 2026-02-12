@@ -49,7 +49,7 @@ l'ensemble de la topologie réseau sous ~40 secondes (ip ospf dead-interval), ga
 ### Topologie globale
 
 ```
-![](./Docs/Schema.png)
+![](https://raw.githubusercontent.com/redouanrfr/LAB-OSPF-SDWAN-SLA-Fortigate/main/Docs/Schema.png)
 
 ```
 
