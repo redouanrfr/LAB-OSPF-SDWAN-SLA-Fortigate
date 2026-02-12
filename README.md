@@ -135,7 +135,7 @@ l'ensemble de la topologie réseau sous ~40 secondes (ip ospf dead-interval), ga
 - **Statut** : ✅ **VALIDÉ**
 - **Vérification** : LSA Type 3 présents dans LSDB
 
-> 📊 **Détails des tests** : Consultez [`Docs/lab_sdwan_ospf_doc.md`](Section-tests-validés)
+> 📊 **Détails des tests** : Consultez le section tests validés dans [`Docs/lab_sdwan_ospf_doc.md`](Docs/lab_sdwan_ospf_doc.md)
 
 ## 📚 Documentation
 
