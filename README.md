@@ -107,7 +107,7 @@ l'ensemble de la topologie réseau sous ~40 secondes (ip ospf dead-interval), ga
 - Routage Cisco IOS
 - Protocoles de basculement (health-checks, SLA)
 
-> 📖 **Documentation ** disponible dans [`docs/lab_sdwan_ospf_doc.md`](docs/lab_sdwan_ospf_doc.md)
+> 📖 **Documentation ** disponible dans [`Docs/lab_sdwan_ospf_doc.md`](Docs/lab_sdwan_ospf_doc.md)
 
 ## ✅ Tests validés
 
@@ -135,13 +135,14 @@ l'ensemble de la topologie réseau sous ~40 secondes (ip ospf dead-interval), ga
 - **Statut** : ✅ **VALIDÉ**
 - **Vérification** : LSA Type 3 présents dans LSDB
 
-> 📊 **Détails des tests** : Consultez [`docs/lab_sdwan_ospf_doc.md`](docs/lab_sdwan_ospf_doc.md#-scénarios-de-test-validés)
+> 📊 **Détails des tests** : Consultez [`Docs/lab_sdwan_ospf_doc.md`](Section-tests-validés)
 
 ## 📚 Documentation
 
 ### Fichiers principaux
-- **[Documentation complète](docs/lab_sdwan_ospf_doc.md)** : Guide détaillé avec architecture, plan d'adressage, configurations
-- **[Schéma réseau](diagrams/fortigate-ospf-sdwan.xml)** : Diagramme Draw.io (éditable)
+- **[Documentation complète](Docs/lab_sdwan_ospf_doc.md)** : Guide détaillé avec architecture, plan d'adressage, configurations
+- **[Schéma réseau](Docs/fortigate-ospf-sdwan.xml)** : Diagramme Draw.io (éditable)
+- **[Schéma réseau](Docs/Schema.png)** : Diagramme Png (ScreenShot)
 
 
 ## 🎥 Demos & Preuves de Concept (PoC)
